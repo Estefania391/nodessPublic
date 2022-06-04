@@ -27,7 +27,21 @@
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
                         <div class="address">
                              <h3>Servicios</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </p>
+                             <li>
+                                    <a href="#">
+                                        <i class="fas fa-map-marker-alt"></i>&nbsp; Capacitaciones
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fas fa-map-marker-alt"></i>&nbsp; Cursos-Talleres
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fas fa-map-marker-alt"></i>&nbsp; Eventos
+                                    </a>
+                                </li>
                         </div>
                     </div>
 
