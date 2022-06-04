@@ -42,7 +42,7 @@
                                         <i class="fas fa-map-marker-alt"></i>&nbsp; Eventos
                                     </a>
                                 </li>
-                        </div>
+
                     </div>
 
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
