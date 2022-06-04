@@ -43,6 +43,7 @@ if(!isset($_GET["le"])){
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- style css -->
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
     <!-- Responsive-->
     <link rel="stylesheet" href="css/responsive.css">
     <!-- fevicon -->
@@ -178,22 +179,88 @@ if(!isset($_GET["le"])){
         </div>
     </div>
 
+    
+    
+
+
     <!-- product -->
-    <div id="product" class="product">
+    <!--div id="product" class="product">
         <div class="container">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="title">
-                            <h3 style="font-size: 40px;">NODESS</h3>
-                            <h2><strong class="black"> Últimos posts</strong></h2>
-                            <br>
-                            <h4>Conoce los artículos más relevantes de la semana </h4>
+                        <div class="title"-->
+                         <!--PRUEBA-->
+          <!--- Restaurant-->
+          <div class="container">
+            <div class="row" id="Restaurant">
+                <div class="col navMenu">
+                    <h1 class="text-center" > Línea estratégicas </h1>
+                </div>
+            </div><br> <br>
+            <div class="row bg-light">
+                <div class="col-md-6">
+                    <h3>Misión</h3>
+                    <br>
+                    <p>Generar estrategias y acciones que fomenten e impulsen el desarrollo de prácticas y ejercicios desde la economía social y solidaria, que coadyuven en la reducción de las desigualdades sociales y la construcción de paz en la región Pátzcuaro-Zirahuén.</p>
+                    
+                </div>
+                <div class="col-md-6" data-aos="fade-up">
+                    <img class="img-fluid" src="img_examples/WhatsApp Image 2021-11-16 at 9.26.06 PM (3).jpeg">
+                </div>
+            </div>
+            <div class="row bg-light"><br></div>
+            <div class="row bg-light">
+                <div class="col-md-6 order-md-1 order-2" data-aos="fade-up">
+                    <img class="img-fluid " src="img_examples/WhatsApp Image 2021-11-16 at 9.26.07 PM (4).jpeg">
+                </div>
+                <br>
+                <div class="col-md-6 order-md-12 order-1">
+                    <h3>Objetivo General</h3>
+                    <p>
+                        Promover la creación, organización y fortalecimiento de los organismos del sector social de la economía (OSSE) de la región Pátzcuaro Zirahuén.</p>
+                        <br>
+                        <h3>Objetivos Específicos</h3>
+                        <p >Brindar asesoría y capacitación para la creación y fortalecimiento de organismos del sector social de la economía.   </p><br>
+                        
+                        <p>Visibilizar y difundir las diferentes expresiones de economía social y solidaria a través de los distintos medios de comunicación.   </p><br>
+                        
+                        <p>Impulsar la comercialización de productos de OSSE a través de los distintos canales y medios de comunicación para el comercio justo y trato directo.   </p><br>
+                    
+                        <p>Contribuir en la reconstrucción y fortalecimiento del tejido social, el respeto por la vida y la mitigación de las violencias, priorizando para ello procesos integrales socioeducativos con la participación comunitaria.   </p><br>
+                        
+                        <p>Difundir y hacer comprender la Gestión integrada de cuencas, el uso del territorio como patrimonio, identidad cultural y autonomía  </p> <br>
+                    
+                </div>
+            </div><br>
+
+            <div class="row bg-light" >
+                <div class="col-md-6"><br>
+                    <h3>Metodología </h3>
+                    <br> 
+                    <p>Contamos con una ruta metodológica para el seguimiento, atención, monitoreo y mejora continua a las organizaciones de la economía social y solidaria, así como de aquellos sectores vulnerables por violencias estructurales de la región.</p>
+                       <br>
+                   
+                            <p>	Análisis de las necesidades.</p>
+                            <p>	Sensibilización e identificación de actores.</p>
+                            <p>	Planeación e Intervención.</p>
+                            <p>	Gestión de recursos y medición.</p>
+                            <p>	Implementación y mejora.</p>
+                        <br>
+  
+                </div>
+                <div class="col-md-6" data-aos="fade-up">
+                    <img class="img-fluid" src="img_examples/metodologia.png">
+                </div>
+            </div>
+            
+            <!--- End of Restaurant -->
+        </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div-->
 
         <div class="container-fluid" >
             <table id="example" class="display" cellspacing="0" width="100%">
